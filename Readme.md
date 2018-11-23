@@ -1,5 +1,7 @@
 ## Stereo vision based obstacle mapping
 
+** Don't star, this is not my active repo!** Currently it is under a private repository.
+
 Original plan is to merge the two inputs of obstacle bounding boxes and generate a optimized obstacle cubicle map.
 
 First try to reproduce the result of paper: `Stereo Vision-based Semantic 3D Object and Ego-motion Tracking for Autonomous Driving` of ECCV 2018.
